@@ -1,0 +1,38 @@
+﻿  Cat.cpp
+C:\Users\james\source\repos\Classes\Classes\Cat.h(6,13): error C3646: 'name': unknown override specifier
+C:\Users\james\source\repos\Classes\Classes\Cat.h(6,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\james\source\repos\Classes\Classes\Cat.h(9,17): error C3646: 'toString': unknown override specifier
+C:\Users\james\source\repos\Classes\Classes\Cat.h(9,17): error C2059: syntax error: '('
+C:\Users\james\source\repos\Classes\Classes\Cat.h(9,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\james\source\repos\Classes\Classes\Cat.h(11,22): error C2061: syntax error: identifier 'string'
+C:\Users\james\source\repos\Classes\Classes\Cat.h(12,16): error C3646: 'getName': unknown override specifier
+C:\Users\james\source\repos\Classes\Classes\Cat.h(12,16): error C2059: syntax error: '('
+C:\Users\james\source\repos\Classes\Classes\Cat.h(12,18): error C2238: unexpected token(s) preceding ';'
+C:\Users\james\source\repos\Classes\Classes\Cat.cpp(9,2): error C2065: 'name': undeclared identifier
+C:\Users\james\source\repos\Classes\Classes\Cat.cpp(12,13): error C2039: 'toString': is not a member of 'Cat'
+C:\Users\james\source\repos\Classes\Classes\Cat.h(3): message : see declaration of 'Cat'
+C:\Users\james\source\repos\Classes\Classes\Cat.cpp(13,29): error C2065: 'name': undeclared identifier
+C:\Users\james\source\repos\Classes\Classes\Cat.cpp(16,35): error C2511: 'void Cat::setName(std::string)': overloaded member function not found in 'Cat'
+C:\Users\james\source\repos\Classes\Classes\Cat.h(3): message : see declaration of 'Cat'
+C:\Users\james\source\repos\Classes\Classes\Cat.cpp(17,2): error C2065: 'name': undeclared identifier
+C:\Users\james\source\repos\Classes\Classes\Cat.cpp(20,13): error C2039: 'getName': is not a member of 'Cat'
+C:\Users\james\source\repos\Classes\Classes\Cat.h(3): message : see declaration of 'Cat'
+C:\Users\james\source\repos\Classes\Classes\Cat.cpp(21,9): error C2065: 'name': undeclared identifier
+  Classes.cpp
+C:\Users\james\source\repos\Classes\Classes\Cat.cpp(22,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\james\source\repos\Classes\Classes\Cat.h(6,13): error C3646: 'name': unknown override specifier
+C:\Users\james\source\repos\Classes\Classes\Cat.h(6,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\james\source\repos\Classes\Classes\Cat.h(9,17): error C3646: 'toString': unknown override specifier
+C:\Users\james\source\repos\Classes\Classes\Cat.h(9,17): error C2059: syntax error: '('
+C:\Users\james\source\repos\Classes\Classes\Cat.h(9,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\james\source\repos\Classes\Classes\Cat.h(11,22): error C2061: syntax error: identifier 'string'
+C:\Users\james\source\repos\Classes\Classes\Cat.h(12,16): error C3646: 'getName': unknown override specifier
+C:\Users\james\source\repos\Classes\Classes\Cat.h(12,16): error C2059: syntax error: '('
+C:\Users\james\source\repos\Classes\Classes\Cat.h(12,18): error C2238: unexpected token(s) preceding ';'
+C:\Users\james\source\repos\Classes\Classes\Classes.cpp(14,24): error C2660: 'Cat::setName': function does not take 1 arguments
+C:\Users\james\source\repos\Classes\Classes\Cat.h(11,7): message : see declaration of 'Cat::setName'
+C:\Users\james\source\repos\Classes\Classes\Classes.cpp(16,21): error C2039: 'getName': is not a member of 'Cat'
+C:\Users\james\source\repos\Classes\Classes\Cat.h(3): message : see declaration of 'Cat'
+C:\Users\james\source\repos\Classes\Classes\Classes.cpp(17,22): error C2039: 'toString': is not a member of 'Cat'
+  Generating Code...
+C:\Users\james\source\repos\Classes\Classes\Cat.h(3): message : see declaration of 'Cat'
